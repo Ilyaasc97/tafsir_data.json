@@ -3,7 +3,7 @@
         "id": "1",
         "title": "Xisbiga 1aad",
         "surah_name": "Al-Fatiha",
-        "reciter_name": "Sheekh Nuur Cali Jaamac",
+        "reciter_name": "Sh Nuur Cali Jaamac",
         "audio_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/0c648d904229ed277bbfc2d92d0ecd421b43f88a/001%20.mp3",
         "image_url": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/images/shaarawy.jpg"
     },
@@ -11,9 +11,10 @@
         "id": "2",
         "title": "Xisbiga 2aad",
         "surah_name": "Al-Baqarah",
-        "reciter_name": "Sheekh Nuur Cali Jaamac",
+        "reciter_name": "Sh Nuur Cali Jaamac",
         "audio_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/0c648d904229ed277bbfc2d92d0ecd421b43f88a/002.mp3",
         "image_url": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/images/uthaymeen.jpg"
     }
 ]
+
 
