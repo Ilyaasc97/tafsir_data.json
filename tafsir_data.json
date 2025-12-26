@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "title": " Al Fatixah 1 - Al Baqrah -74",
+        "title": "Juzka 1aad [X-1]",
         "surah_name": "Al-Fatiha",
         "reciter_name": "Sh Nuur Cali Jaamac",
         "audio_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/0c648d904229ed277bbfc2d92d0ecd421b43f88a/001%20.mp3",
@@ -9,13 +9,14 @@
     },
     {
         "id": "2",
-        "title": "Al-Baqrah 75-141",
+        "title": "Juzka 1aad [X-2]",
         "surah_name": "Al-Baqarah",
         "reciter_name": "Sh Nuur Cali Jaamac",
         "audio_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/0c648d904229ed277bbfc2d92d0ecd421b43f88a/002.mp3",
         "image_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/20d0607e47ab1f19ec3c13d4ae6e32f6ed0eef1c/sh%20nuur.png"
     }
 ]
+
 
 
 
