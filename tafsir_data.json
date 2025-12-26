@@ -1,20 +1,21 @@
 [
     {
         "id": "1",
-        "title": "Xisbiga 1aad",
+        "title": "1-1 Xisbiga 1aad",
         "surah_name": "Al-Fatiha",
         "reciter_name": "Sh Nuur Cali Jaamac",
         "audio_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/0c648d904229ed277bbfc2d92d0ecd421b43f88a/001%20.mp3",
-        "image_url": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/images/shaarawy.jpg"
+        "image_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/20d0607e47ab1f19ec3c13d4ae6e32f6ed0eef1c/sh%20nuur.png"
     },
     {
         "id": "2",
-        "title": "Xisbiga 2aad",
+        "title": "1-2 Xisbiga 2aad",
         "surah_name": "Al-Baqarah",
         "reciter_name": "Sh Nuur Cali Jaamac",
         "audio_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/0c648d904229ed277bbfc2d92d0ecd421b43f88a/002.mp3",
-        "image_url": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/images/uthaymeen.jpg"
+        "image_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/20d0607e47ab1f19ec3c13d4ae6e32f6ed0eef1c/sh%20nuur.png"
     }
 ]
+
 
 
