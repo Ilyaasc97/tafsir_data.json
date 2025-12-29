@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "title": "Juzka 1aad [X-1]",
+        "title": "J-1 Xizbiga 1aad",
         "juz": "Juzka 1aad",
         "sheikh_name": "Sh Nuur Cali Jaamac",
         "audio_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/0c648d904229ed277bbfc2d92d0ecd421b43f88a/001%20.mp3",
@@ -9,7 +9,7 @@
     },
     {
         "id": "2",
-        "title": "Juzka 1aad [X-2]",
+        "title": "J-1 Xizbiga 2aad",
         "juz": "Juzka 1aad",
         "sheikh_name": "Sh Nuur Cali Jaamac",
         "audio_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/0c648d904229ed277bbfc2d92d0ecd421b43f88a/002.mp3",
@@ -17,7 +17,7 @@
     },
      {
         "id": "3",
-        "title": "Juzka 2aad [X-1]",
+        "title": "J-2 Xizbiga 1aad",
         "juz": "Juzka 2aad",
         "sheikh_name": "Sh Nuur Cali Jaamac",
         "audio_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/fa491d8246becfdbff70ac82da2df48947dd8962/JUSKA%202%20X1.mp3",
@@ -25,13 +25,14 @@
     },
     {
         "id": "4",
-        "title": "Juzka 2aad [X-2]",
+        "title": "J-2 Xizbiga 2aad",
         "juz": "Juzka 2aad",
         "sheikh_name": "Sh Nuur Cali Jaamac",
         "audio_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/fa491d8246becfdbff70ac82da2df48947dd8962/JUSKA%202%20X2.mp3",
         "image_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/bbb99fc42332547d4a827606f7bef6480eb0798e/iconapp.png"
     }
 ]
+
 
 
 
