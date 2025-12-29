@@ -87,16 +87,80 @@
         "audio_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/bbb99fc42332547d4a827606f7bef6480eb0798e/JUSKA%206%20X1.mp3",
         "image_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/bbb99fc42332547d4a827606f7bef6480eb0798e/iconapp.png"
     },
-    {
-      "id": "12",
+     {
+        "id": "12",
         "title": "Juzka-6 Xizbiga 2aad",
         "juz": "Juzka 6aad",
         "sheikh_name": "Sh Nuur Cali Jaamac",
-        "audio_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/bbb99fc42332547d4a827606f7bef6480eb0798e/JUSKA%206%20X2.mp3",
+        "audio_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/7b9acee9e715d5b132a5c6e15613e2b6e815ed6f/JUSKA%206%20X2.mp3",
+        "image_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/bbb99fc42332547d4a827606f7bef6480eb0798e/iconapp.png"
+    },
+    {
+        "id": "13",
+        "title": "Juzka-7 Xizbiga 1aad",
+        "juz": "Juzka 7aad",
+        "sheikh_name": "Sh Nuur Cali Jaamac",
+        "audio_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/7b9acee9e715d5b132a5c6e15613e2b6e815ed6f/JUSKA%207%20X1.mp3",
+        "image_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/bbb99fc42332547d4a827606f7bef6480eb0798e/iconapp.png"
+    },
+    {
+        "id": "14",
+        "title": "Juzka-7 Xizbiga 2aad",
+        "juz": "Juzka 7aad",
+        "sheikh_name": "Sh Nuur Cali Jaamac",
+        "audio_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/7b9acee9e715d5b132a5c6e15613e2b6e815ed6f/JUSKA%207%20X2.mp3",
+        "image_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/bbb99fc42332547d4a827606f7bef6480eb0798e/iconapp.png"
+    },
+    {
+        "id": "15",
+        "title": "Juzka-8 Xizbiga 1aad",
+        "juz": "Juzka 8aad",
+        "sheikh_name": "Sh Nuur Cali Jaamac",
+        "audio_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/7b9acee9e715d5b132a5c6e15613e2b6e815ed6f/JUSKA%208%20X1.mp3",
+        "image_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/bbb99fc42332547d4a827606f7bef6480eb0798e/iconapp.png"
+    },
+    {
+        "id": "16",
+        "title": "Juzka-8 Xizbiga 2aad",
+        "juz": "Juzka 8aad",
+        "sheikh_name": "Sh Nuur Cali Jaamac",
+        "audio_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/7b9acee9e715d5b132a5c6e15613e2b6e815ed6f/JUSKA%208%20X2.mp3",
+        "image_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/bbb99fc42332547d4a827606f7bef6480eb0798e/iconapp.png"
+    },
+    {
+        "id": "17",
+        "title": "Juzka-9 Xizbiga 1aad",
+        "juz": "Juzka 9aad",
+        "sheikh_name": "Sh Nuur Cali Jaamac",
+        "audio_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/7b9acee9e715d5b132a5c6e15613e2b6e815ed6f/JUSKA%209%20X1.mp3",
+        "image_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/bbb99fc42332547d4a827606f7bef6480eb0798e/iconapp.png"
+    },
+    {
+        "id": "18",
+        "title": "Juzka-9 Xizbiga 2aad",
+        "juz": "Juzka 9aad",
+        "sheikh_name": "Sh Nuur Cali Jaamac",
+        "audio_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/7b9acee9e715d5b132a5c6e15613e2b6e815ed6f/JUSKA%209%20X2.mp3",
+        "image_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/bbb99fc42332547d4a827606f7bef6480eb0798e/iconapp.png"
+    },
+    {
+        "id": "19",
+        "title": "Juzka-10 Xizbiga 1aad",
+        "juz": "Juzka 10aad",
+        "sheikh_name": "Sh Nuur Cali Jaamac",
+        "audio_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/7b9acee9e715d5b132a5c6e15613e2b6e815ed6f/JUSKA%2010%20X1.mp3",
+        "image_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/bbb99fc42332547d4a827606f7bef6480eb0798e/iconapp.png"
+    },
+    {
+        "id": "20",
+        "title": "Juzka-10 Xizbiga 2aad",
+        "juz": "Juzka 10aad",
+        "sheikh_name": "Sh Nuur Cali Jaamac",
+        "audio_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/7b9acee9e715d5b132a5c6e15613e2b6e815ed6f/JUSKA%2010%20X2.mp3",
         "image_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/bbb99fc42332547d4a827606f7bef6480eb0798e/iconapp.png"
     }
-
 ]
+
 
 
 
