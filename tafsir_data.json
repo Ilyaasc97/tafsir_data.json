@@ -270,5 +270,53 @@
         "sheikh_name": "Sh Nuur Cali Jaamac",
         "audio_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/f42b7b0ee51ff3ff41b0a3991e487471e493564f/JUSKA%2017%20X2.mp3",
         "image_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/bbb99fc42332547d4a827606f7bef6480eb0798e/iconapp.png"
+    },
+    {
+        "id": "33",
+        "title": "Juzka-18 Xizbiga 1aad",
+        "juz": "Juzka 18aad",
+        "sheikh_name": "Sh Nuur Cali Jaamac",
+        "audio_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/f42b7b0ee51ff3ff41b0a3991e487471e493564f/JUSKA%2018%20X1.mp3",
+        "image_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/bbb99fc42332547d4a827606f7bef6480eb0798e/iconapp.png"
+    },
+    {
+        "id": "34",
+        "title": "Juzka-18 Xizbiga 2aad",
+        "juz": "Juzka 18aad",
+        "sheikh_name": "Sh Nuur Cali Jaamac",
+        "audio_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/f42b7b0ee51ff3ff41b0a3991e487471e493564f/JUSKA%2018%20X2.mp3",
+        "image_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/bbb99fc42332547d4a827606f7bef6480eb0798e/iconapp.png"
+    },
+    {
+        "id": "35",
+        "title": "Juzka-19 Xizbiga 1aad",
+        "juz": "Juzka 19aad",
+        "sheikh_name": "Sh Nuur Cali Jaamac",
+        "audio_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/f42b7b0ee51ff3ff41b0a3991e487471e493564f/JUSKA%2019%20X1.mp3",
+        "image_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/bbb99fc42332547d4a827606f7bef6480eb0798e/iconapp.png"
+    },
+    {
+        "id": "36",
+        "title": "Juzka-19 Xizbiga 2aad",
+        "juz": "Juzka 19aad",
+        "sheikh_name": "Sh Nuur Cali Jaamac",
+        "audio_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/f42b7b0ee51ff3ff41b0a3991e487471e493564f/JUSKA%2019%20X2.mp3",
+        "image_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/bbb99fc42332547d4a827606f7bef6480eb0798e/iconapp.png"
+    },
+    {
+        "id": "37",
+        "title": "Juzka-20 Xizbiga 1aad",
+        "juz": "Juzka 20aad",
+        "sheikh_name": "Sh Nuur Cali Jaamac",
+        "audio_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/f42b7b0ee51ff3ff41b0a3991e487471e493564f/JUSKA%2020%20X1.mp3",
+        "image_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/bbb99fc42332547d4a827606f7bef6480eb0798e/iconapp.png"
+    },
+    {
+        "id": "38",
+        "title": "Juzka-20 Xizbiga 2aad",
+        "juz": "Juzka 20aad",
+        "sheikh_name": "Sh Nuur Cali Jaamac",
+        "audio_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/f42b7b0ee51ff3ff41b0a3991e487471e493564f/JUSKA%2020%20X2.mp3",
+        "image_url": "https://github.com/Ilyaasc97/tafsiir_gaaban/blob/bbb99fc42332547d4a827606f7bef6480eb0798e/iconapp.png"
     }
 ]
